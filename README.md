@@ -4,10 +4,10 @@ execute the following maven command to run class
 
 Performance:
 
-ArrayDiffPerfTest\n
-ArrayDiffPerfTest.testPerf1    176ms\n
-ArrayDiffPerfTest.testPerf2      2ms\n
-ArrayDiffPerfTest.testPerf3      2ms\n
+ArrayDiffPerfTest.testPerf1    176ms
+ArrayDiffPerfTest.testPerf2      2ms
+ArrayDiffPerfTest.testPerf3      2ms
+
 
 Coverage details:
 
