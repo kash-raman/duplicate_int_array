@@ -3,11 +3,11 @@ execute the following maven command to run class
   mvn exec:java -Dexec.mainClass="edu.test.runner.ArrayDiffRunner"
 
 Performance:
-Sei-Duplicate
-ArrayDiffPerfTest
-ArrayDiffPerfTest.testPerf1    176ms
-ArrayDiffPerfTest.testPerf2      2ms
-ArrayDiffPerfTest.testPerf3      2ms
+
+ArrayDiffPerfTest\n
+ArrayDiffPerfTest.testPerf1    176ms\n
+ArrayDiffPerfTest.testPerf2      2ms\n
+ArrayDiffPerfTest.testPerf3      2ms\n
 
 Coverage details:
 
