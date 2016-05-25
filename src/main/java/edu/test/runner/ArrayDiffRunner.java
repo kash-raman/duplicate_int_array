@@ -19,7 +19,7 @@ public class ArrayDiffRunner {
         try {
             arrayDiff.removeDuplicate();
             arrayDiff.removeDuplicateUsingSet();
-            arrayDiff.removeDuplicateUsingConcurrentSet();
+            arrayDiff.removeDuplicateUsingLinkedHashSet();
         } catch (ComputationException e) {
             log.error("error in processing operation", e);
         }
